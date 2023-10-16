@@ -1,16 +1,14 @@
-Uber Data Analytics project on Google Cloud Platform(GCP):
+**Uber Data Analytics project on Google Cloud Platform(GCP):**
 
 	1. First Uber dataset is loaded onto Google cloud storage(GCS) bucket.
 	2. Then, a Dimensional model was built and the data was loaded into BigQuey after performing transformations.
 	3. Finally, a Looker Dashboard was built for analysis.
 
-This process is orchestrated by Mage, a modern ETL tool.
-
-# Uber Data Analytics - Data Engineering GCP Project
-
 ## Introduction
 
 The goal of this project is to perform data analytics on Uber data through tech and tools namely GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+
+This process is orchestrated by Mage, a modern ETL tool.
 
 ## Architecture 
 ![](https://drive.google.com/uc?export=view&id=1tGbbw0fnLCmySMeyd79_qDbueTvmtzT- "snap_1")
